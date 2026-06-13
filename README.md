@@ -1,6 +1,6 @@
-# Miner's Dream [Modrinth](https://modrinth.com/mod/miners-dream-fabric)
+# Miner's Dream
 
-A Fabric mod for Minecraft that revives the classic **Miner's Dream** item from the popular **OreSpawn** mod.
+A Fabric mod for Minecraft that revives the classic **Miner's Dream** item from the popular **OreSpawn** mod. 
 
 ## What it does
 
@@ -20,6 +20,9 @@ Use the Miner's Dream to instantly clear a **11×70×4 tunnel** in front of you,
 * Minecraft 26.1.2
 * Fabric Loader ≥ 0.19.3
 * Fabric API
+
+## Links
+[Modrinth](https://modrinth.com/mod/miners-dream-fabric)
 
 ## Texture Credit
 
