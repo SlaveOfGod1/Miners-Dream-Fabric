@@ -1,4 +1,4 @@
-# Miner's Dream
+# Miner's Dream [Modrinth](https://modrinth.com/mod/miners-dream-fabric)
 
 A Fabric mod for Minecraft that revives the classic **Miner's Dream** item from the popular **OreSpawn** mod.
 
