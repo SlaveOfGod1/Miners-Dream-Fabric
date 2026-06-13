@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "miners-dream",
+	"version": "${version}",
+	"name": "Miners Dream",
+	"description": "A powerful mining tool that clears all non-ore blocks in an 11×70 area in front of you, revealing only the precious ores!",
+	"authors": [
+		"SlaveOfGod1"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/SlaveOfGod1",
+		"sources": "https://github.com/SlaveOfGod1"
+	},
+	"license": "All-Rights-Reserved",
+	"icon": "assets/miners-dream/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.minersdream.MinersDream"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

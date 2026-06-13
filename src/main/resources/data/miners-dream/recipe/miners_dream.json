@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"pattern": [
+		"CCC",
+		"BBB",
+		"GGG"
+	],
+	"key": {
+		"C": "minecraft:cactus",
+		"B": "minecraft:redstone_block",
+		"G": "minecraft:gunpowder"
+	},
+	"result": {
+		"id": "miners-dream:miners_dream",
+		"count": 1
+	}
+}
