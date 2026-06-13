@@ -13,7 +13,7 @@ Use the Miner's Dream to instantly clear a **11×70×4 tunnel** in front of you,
 
 ## Crafting
 
-<img src="src/main/resources/assets/miners-dream/crafting\\\_recipe.png" width="300">
+<img src="src\main\resources\assets\miners-dream\crafting_recipe.png"" width="300">
 
 ## Requirements
 
